@@ -10,4 +10,4 @@ Here is a sample of what I made.
 
 ![Snippet for webpage](https://user-images.githubusercontent.com/80812132/151973049-506a6559-b08e-42dc-87e9-5bcac539b029.png)
 
-Check the GitHub Pages to preview the site! Also, this was made when I was fairly new to web development and it took a long time to make this. So some of the elements in the site do not look right.
+Check it out here (https://leekenny301.github.io/cats-site/) to preview the site! Also, this was made when I was fairly new to web development and it took a long time to make this. So some of the elements in the site do not look right.
